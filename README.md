@@ -54,11 +54,7 @@ cd translatorMirea
 ```commandline
 cat test.txt | python main.py
 ```
-После ввода программы завершите ввод:
 
-Linux / macOS — Ctrl + D
-
-Windows (PowerShell) — Ctrl + Z, затем Enter
 
 ## Пример входных данных
 ```commandline
